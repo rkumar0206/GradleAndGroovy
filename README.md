@@ -3,6 +3,7 @@ Learning gradle and groovy
 
 ## Important Links
 
+- [What is gradle?](https://docs.gradle.org/current/userguide/what_is_gradle.html)
 - [Adding Groovy in eclipse](https://marketplace.eclipse.org/content/groovy-development-tools)
 - [Project interface](https://docs.gradle.org/current/javadoc/org/gradle/api/Project.html)
 - [Writing build scripts](https://docs.gradle.org/current/userguide/writing_build_scripts.html)
