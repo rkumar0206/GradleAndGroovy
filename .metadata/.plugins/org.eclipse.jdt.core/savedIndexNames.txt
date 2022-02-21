@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+R:\spring_workspaces\learning_groovy\.metadata\.plugins\org.eclipse.jdt.core
+2906004000.index
+332383186.index
+2328269416.index
+1331345549.index
+1504666650.index
+173114859.index
+3540500630.index

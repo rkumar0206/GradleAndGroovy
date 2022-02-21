@@ -1,0 +1,5 @@
+package com.rtb.groovy
+
+def a = 10
+
+println a;

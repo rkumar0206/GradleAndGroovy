@@ -1,0 +1,8 @@
+package com.rtb.groovy
+
+int product(int x, int y) {
+		
+	return x* y;
+}
+
+println product(10,5)

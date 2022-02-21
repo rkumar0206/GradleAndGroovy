@@ -1,0 +1,11 @@
+package com.rtb.groovy
+
+class Patient {
+	
+	def firstName, lastName, age
+}
+
+p = new Patient(firstName : "John", lastName : "Bailey", age : 40)
+
+println = p.firstName + " " + p.lastName + " " + p.age
+

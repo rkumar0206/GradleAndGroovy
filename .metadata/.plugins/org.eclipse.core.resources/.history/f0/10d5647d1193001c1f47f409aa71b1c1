@@ -1,0 +1,6 @@
+package com.rtb.groovy
+
+float a = 10.25f
+
+println a;
+println a.class

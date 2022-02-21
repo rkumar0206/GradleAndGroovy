@@ -1,0 +1,14 @@
+package com.rtb.groovy
+
+float a = 10.25f
+
+println a;
+println a.class
+
+s = 'hello'
+println s
+
+name = "Rohit"
+s = "hello ${name}"
+
+println s

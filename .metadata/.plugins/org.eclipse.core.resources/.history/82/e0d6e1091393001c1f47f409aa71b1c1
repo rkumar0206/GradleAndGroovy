@@ -1,0 +1,9 @@
+package com.rtb.groovy
+// lambda in java
+c ={
+	
+	println("Clousre are super simple")
+	
+}
+
+c.call()

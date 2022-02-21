@@ -1,0 +1,9 @@
+package com.rtb.groovy
+// lambda in java
+c ={ n = 10 -> 
+	
+	println(n%2 ==0?"even":"odd");
+	
+}
+
+c.call()  // execute the closure

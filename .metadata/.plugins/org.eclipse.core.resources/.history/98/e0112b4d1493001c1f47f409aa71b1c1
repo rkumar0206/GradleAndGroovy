@@ -1,0 +1,24 @@
+package com.rtb.groovy
+
+l = [1,2,3]
+LinkedList ll = [1,3,5]
+
+println l
+println l.class
+println ll
+println ll.class
+
+l << 4  // append element
+
+println l
+
+l = l + [5,6,7]  // append list
+
+println l
+
+println l-[3,5]  // remove elements
+
+l.each { 
+	
+	print it
+}

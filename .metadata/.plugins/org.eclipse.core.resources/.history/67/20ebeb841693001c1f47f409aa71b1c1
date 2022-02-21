@@ -1,0 +1,28 @@
+package com.rtb.groovy
+
+// ---------------------
+int product(int x=3, int y) {
+		
+	return x* y
+}
+
+println product(y=5)
+
+// the above can be written as 
+def product(x,y) {
+	x *y
+}
+
+result = product 10,5
+println result
+// ------------------------
+
+
+
+
+
+
+
+
+
+

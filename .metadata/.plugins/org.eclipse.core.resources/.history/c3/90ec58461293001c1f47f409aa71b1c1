@@ -1,0 +1,24 @@
+package com.rtb.groovy
+
+float a = 10.25f
+
+println a;
+println a.class
+
+s = 'hello'
+println s
+
+name = "Rohit"
+s = "hello ${name}"
+
+println s
+
+s = '''
+All the power is within in you,
+You can do anything and everything
+'''
+
+println(s)
+
+emailPatern = /^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$/
+print "test@gmail.com"==~ emailPattern

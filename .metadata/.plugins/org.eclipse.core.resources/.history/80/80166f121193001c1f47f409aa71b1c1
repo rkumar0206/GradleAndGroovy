@@ -1,0 +1,6 @@
+package com.rtb.groovy
+
+def a = 10.25
+
+println a;
+println a.class

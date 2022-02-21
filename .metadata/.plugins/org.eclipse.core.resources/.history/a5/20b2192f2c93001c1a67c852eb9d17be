@@ -1,0 +1,36 @@
+package com.rtb.groovy
+
+// ---------------------
+int product(int x=3, int y) {
+		
+	return x* y
+}
+
+println product(10,5)
+
+// the above can be written as 
+def product(x,y) {
+	x *y
+}
+
+result = product 10,5
+println result
+// ------------------------
+
+// named parameters
+
+void display(Map productDetails) {
+	
+	println productDetails.name
+	println productDetails.pice
+}
+
+display([name : "Iphone", price : 1000])
+
+
+
+
+
+
+
+
